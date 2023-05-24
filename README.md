@@ -4,6 +4,7 @@
 Power BI is a powerful business intelligence and data visualization tool developed by Microsoft. It has gained significant popularity among companies of all sizes and industries due to its ability to transform raw data into meaningful insights. This essay explores how Power BI is used by companies to enhance decision-making, improve operational efficiency, and drive business growth.
 
 
+![power](https://github.com/Abla-horchi862/PowerBi_Article/assets/61522624/cd2048b5-ac3d-47fd-8184-afec04db4728)
 
 
 ### Data Visualization and Reporting:
