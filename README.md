@@ -3,6 +3,9 @@
 ### Introduction:
 Power BI is a powerful business intelligence and data visualization tool developed by Microsoft. It has gained significant popularity among companies of all sizes and industries due to its ability to transform raw data into meaningful insights. This essay explores how Power BI is used by companies to enhance decision-making, improve operational efficiency, and drive business growth.
 
+![power3](https://github.com/Abla-horchi862/PowerBi_Article/assets/61522624/60a041cc-7e94-4f1e-8ff2-db31f4bacfd4)
+
+
 ### Data Visualization and Reporting:
 One of the primary functions of Power BI is data visualization, allowing companies to create interactive and visually appealing reports and dashboards. With its intuitive drag-and-drop interface, users can easily connect to various data sources, transform and clean the data, and create visually compelling charts, graphs, and maps. These visualizations provide a holistic view of business data, enabling stakeholders to quickly identify trends, patterns, and anomalies.
 
